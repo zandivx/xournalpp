@@ -63,3 +63,5 @@ Debug
 # Miscellaneous
 .DS_STORE
 *~
+
+/xournalpp-fork
